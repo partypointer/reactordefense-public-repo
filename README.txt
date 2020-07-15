@@ -1,0 +1,1 @@
+This software was coded for educational purposes.
